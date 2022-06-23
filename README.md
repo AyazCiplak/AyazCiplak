@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayaz
-- 👀 I'm currently an undergraduate computer science student at McGill University. I enjoy doing both front end and back end development, and am interested in a variety of programming-related technologies. 
-- 🌱 I’m currently learning about a few JavaScript-based tools, such as Vue.js, Node.js and React Native.  
+- 👀 I'm an undergraduate B.SC Computer Science student at McGill University.
+- 🌱 Currently, I'm learning to develop SPAs, more specifically with the React.JS framework. In the future, I'm planning on learning more about back-end JavaScript frameworks and databases, in order to develop larger, full-stack applications.  
 - 📫 Feel free to contact me via email -- ayazciplak@gmail.com, or visit my LinkedIn -- https://www.linkedin.com/in/ayazc/
 
 <!---
